@@ -1,3 +1,7 @@
+"""
+Write a function to parse a log file & extract details of Errors & Warnings recorded into a separate file.
+"""
+
 file_in = open('sample.log','r') # Read file
 file_out = open('output.log','w') # Read file
 
